@@ -1,0 +1,38 @@
+#-------------------------------------------
+# This Repo ignores the following file types
+#-------------------------------------------
+
+# Build output folders
+/Debug/
+/Release/
+/build/
+/output/
+
+# Build artifacts
+*.o
+*.obj
+*.a
+*.lib
+*.elf
+*.bin
+*.hex
+*.out
+*.map
+
+# Backup & temporary files
+*.bak
+*.tmp
+*.old
+*.orig
+*.swp
+*.swo
+*.user
+
+# OS / file system files
+.DS_Store
+Thumbs.db
+
+# Git patch/conflict artifacts
+*.rej
+*.patch
+*.diff
