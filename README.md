@@ -15,7 +15,7 @@ A speed control system for electric vehicles using an STM32 microcontroller, des
 - USB-UART converter (for debugging via serial)
 - Suitable sensors for each parameter considered
 
-For more on components used check out [COMPONENTS-LIST](./COMPONENTS-LIST)
+For more on components used check out [COMPONENTS-LIST](./Documentation/IFP Components List.docx)
 
 ### Build & Flash
 
@@ -36,8 +36,3 @@ For more on components used check out [COMPONENTS-LIST](./COMPONENTS-LIST)
 - `README.md`: Project documentation.
 - `LICENSE`: MIT License.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
