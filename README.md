@@ -15,7 +15,8 @@ A speed control system for electric vehicles using an STM32 microcontroller, des
 - USB-UART converter (for debugging via serial)
 - Suitable sensors for each parameter considered
 
-For more on components used check out [COMPONENTS-LIST](./Documentation/IFP Components List.docx)
+For more on components used check out [Components List](./Documentation/IFP%20Components%20List.docx)
+
 
 ### Build & Flash
 
